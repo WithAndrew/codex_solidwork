@@ -1,0 +1,189 @@
+2026-06-28 15:31:02  Modular macro started
+2026-06-28 15:31:16  PUR-001_LeftBowl.SLDPRT saved
+2026-06-28 15:31:17  PUR-001_LeftBowl.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\PUR-001_LeftBowl.SLDPRT
+2026-06-28 15:31:19  PUR-002_RightBowl.SLDPRT saved
+2026-06-28 15:31:20  PUR-002_RightBowl.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\PUR-002_RightBowl.SLDPRT
+2026-06-28 15:31:23  PUR-003_LeftLinearFeeder.SLDPRT saved
+2026-06-28 15:31:23  PUR-003_LeftLinearFeeder.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\PUR-003_LeftLinearFeeder.SLDPRT
+2026-06-28 15:31:26  PUR-004_RightLinearFeeder.SLDPRT saved
+2026-06-28 15:31:26  PUR-004_RightLinearFeeder.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\PUR-004_RightLinearFeeder.SLDPRT
+2026-06-28 15:31:30  PUR-005_MainCylinder.SLDPRT saved
+2026-06-28 15:31:30  PUR-005_MainCylinder.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\PUR-005_MainCylinder.SLDPRT
+2026-06-28 15:31:34  PUR-006_StopperCylinder.SLDPRT saved
+2026-06-28 15:31:34  PUR-006_StopperCylinder.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\PUR-006_StopperCylinder.SLDPRT
+2026-06-28 15:31:37  STD-001_GuideRodBearingSet.SLDPRT saved
+2026-06-28 15:31:38  STD-001_GuideRodBearingSet.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\STD-001_GuideRodBearingSet.SLDPRT
+2026-06-28 15:31:41  FRM-001_MachineFrameEnvelope.SLDPRT saved
+2026-06-28 15:31:42  FRM-001_MachineFrameEnvelope.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\FRM-001_MachineFrameEnvelope.SLDPRT
+2026-06-28 15:31:45  CUS-001_CenterBasePlate_700x600x20.SLDPRT saved
+2026-06-28 15:31:46  CUS-001_CenterBasePlate_700x600x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-001_CenterBasePlate_700x600x20.SLDPRT
+2026-06-28 15:31:49  CUS-002_FeedSideRail_150x70x20.SLDPRT saved
+2026-06-28 15:31:49  CUS-002_FeedSideRail_150x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-002_FeedSideRail_150x70x20.SLDPRT
+2026-06-28 15:31:53  CUS-003_TopGuideBlock_70x50x20.SLDPRT saved
+2026-06-28 15:31:54  CUS-003_TopGuideBlock_70x50x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-003_TopGuideBlock_70x50x20.SLDPRT
+2026-06-28 15:31:57  CUS-004_SmallGuideBlock_50x40x20.SLDPRT saved
+2026-06-28 15:31:57  CUS-004_SmallGuideBlock_50x40x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-004_SmallGuideBlock_50x40x20.SLDPRT
+2026-06-28 15:32:01  CUS-005_VerticalStopPlate_140x70x20.SLDPRT saved
+2026-06-28 15:32:01  CUS-005_VerticalStopPlate_140x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-005_VerticalStopPlate_140x70x20.SLDPRT
+2026-06-28 15:32:05  CUS-006_ClampBlock_100x70x20.SLDPRT saved
+2026-06-28 15:32:05  CUS-006_ClampBlock_100x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-006_ClampBlock_100x70x20.SLDPRT
+2026-06-28 15:32:09  CUS-007_LongSlideBase_240x70x20.SLDPRT saved
+2026-06-28 15:32:09  CUS-007_LongSlideBase_240x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-007_LongSlideBase_240x70x20.SLDPRT
+2026-06-28 15:32:13  CUS-008_UpperBridgePlate_250x50x20.SLDPRT saved
+2026-06-28 15:32:13  CUS-008_UpperBridgePlate_250x50x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-008_UpperBridgePlate_250x50x20.SLDPRT
+2026-06-28 15:32:17  CUS-009_ShortPressPlate_150x50x20.SLDPRT saved
+2026-06-28 15:32:17  CUS-009_ShortPressPlate_150x50x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-009_ShortPressPlate_150x50x20.SLDPRT
+2026-06-28 15:32:21  CUS-010_TallSidePlate_300x70x20.SLDPRT saved
+2026-06-28 15:32:21  CUS-010_TallSidePlate_300x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-010_TallSidePlate_300x70x20.SLDPRT
+2026-06-28 15:32:25  CUS-011_EntryTransitionBlock_100x70x20.SLDPRT saved
+2026-06-28 15:32:25  CUS-011_EntryTransitionBlock_100x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-011_EntryTransitionBlock_100x70x20.SLDPRT
+2026-06-28 15:32:29  CUS-012_CylinderMountPlate_280x70x20.SLDPRT saved
+2026-06-28 15:32:29  CUS-012_CylinderMountPlate_280x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-012_CylinderMountPlate_280x70x20.SLDPRT
+2026-06-28 15:32:33  CUS-013_SidePostPlate_60x50x20.SLDPRT saved
+2026-06-28 15:32:33  CUS-013_SidePostPlate_60x50x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-013_SidePostPlate_60x50x20.SLDPRT
+2026-06-28 15:32:37  CUS-014_VerticalNarrowPlate_100x40x10.SLDPRT saved
+2026-06-28 15:32:37  CUS-014_VerticalNarrowPlate_100x40x10.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-014_VerticalNarrowPlate_100x40x10.SLDPRT
+2026-06-28 15:32:40  CUS-015_SmallMountPlate_50x50x20.SLDPRT saved
+2026-06-28 15:32:41  CUS-015_SmallMountPlate_50x50x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-015_SmallMountPlate_50x50x20.SLDPRT
+2026-06-28 15:32:44  CUS-016_SmallClampPlate_50x25x10.SLDPRT saved
+2026-06-28 15:32:45  CUS-016_SmallClampPlate_50x25x10.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-016_SmallClampPlate_50x25x10.SLDPRT
+2026-06-28 15:32:48  CUS-017_PusherTallBlock_210x70x20.SLDPRT saved
+2026-06-28 15:32:49  CUS-017_PusherTallBlock_210x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-017_PusherTallBlock_210x70x20.SLDPRT
+2026-06-28 15:32:52  CUS-018_EndSupportBlock_60x60x50.SLDPRT saved
+2026-06-28 15:32:53  CUS-018_EndSupportBlock_60x60x50.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-018_EndSupportBlock_60x60x50.SLDPRT
+2026-06-28 15:32:57  CUS-019_FootClampBlock_70x70x20.SLDPRT saved
+2026-06-28 15:32:57  CUS-019_FootClampBlock_70x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-019_FootClampBlock_70x70x20.SLDPRT
+2026-06-28 15:33:01  CUS-020_SlideTopBlock_145x80x20.SLDPRT saved
+2026-06-28 15:33:01  CUS-020_SlideTopBlock_145x80x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-020_SlideTopBlock_145x80x20.SLDPRT
+2026-06-28 15:33:05  CUS-021_GuideRodClamp_60x40x40.SLDPRT saved
+2026-06-28 15:33:05  CUS-021_GuideRodClamp_60x40x40.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-021_GuideRodClamp_60x40x40.SLDPRT
+2026-06-28 15:33:09  CUS-022_GuideBearingBlock_70x60x50.SLDPRT saved
+2026-06-28 15:33:09  CUS-022_GuideBearingBlock_70x60x50.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-022_GuideBearingBlock_70x60x50.SLDPRT
+2026-06-28 15:33:13  CUS-023_LongGuideSupport_165x70x50.SLDPRT saved
+2026-06-28 15:33:13  CUS-023_LongGuideSupport_165x70x50.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-023_LongGuideSupport_165x70x50.SLDPRT
+2026-06-28 15:33:17  CUS-024_EndCylinderPlate_250x70x20.SLDPRT saved
+2026-06-28 15:33:17  CUS-024_EndCylinderPlate_250x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-024_EndCylinderPlate_250x70x20.SLDPRT
+2026-06-28 15:33:21  CUS-025_RodSeatBlock_D22.SLDPRT saved
+2026-06-28 15:33:22  CUS-025_RodSeatBlock_D22.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-025_RodSeatBlock_D22.SLDPRT
+2026-06-28 15:33:25  CUS-026_PositionPlate_70x50x20.SLDPRT saved
+2026-06-28 15:33:26  CUS-026_PositionPlate_70x50x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-026_PositionPlate_70x50x20.SLDPRT
+2026-06-28 15:33:29  CUS-027_LongLimitRail_300x70x30.SLDPRT saved
+2026-06-28 15:33:30  CUS-027_LongLimitRail_300x70x30.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-027_LongLimitRail_300x70x30.SLDPRT
+2026-06-28 15:33:33  CUS-028_SensorLightVerticalPlate_310x60x20.SLDPRT saved
+2026-06-28 15:33:34  CUS-028_SensorLightVerticalPlate_310x60x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-028_SensorLightVerticalPlate_310x60x20.SLDPRT
+2026-06-28 15:33:37  CUS-029_BackPanel_1080x30x20.SLDPRT saved
+2026-06-28 15:33:38  CUS-029_BackPanel_1080x30x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-029_BackPanel_1080x30x20.SLDPRT
+2026-06-28 15:33:41  CUS-030_LongVerticalSupport_250x80x20.SLDPRT saved
+2026-06-28 15:33:42  CUS-030_LongVerticalSupport_250x80x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-030_LongVerticalSupport_250x80x20.SLDPRT
+2026-06-28 15:33:46  CUS-031_SensorAngleBlock_100x80x20.SLDPRT saved
+2026-06-28 15:33:46  CUS-031_SensorAngleBlock_100x80x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-031_SensorAngleBlock_100x80x20.SLDPRT
+2026-06-28 15:33:50  CUS-032_TubeClamp_70x60x20.SLDPRT saved
+2026-06-28 15:33:50  CUS-032_TubeClamp_70x60x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-032_TubeClamp_70x60x20.SLDPRT
+2026-06-28 15:33:54  CUS-033_SmallAdjuster_80x60x20.SLDPRT saved
+2026-06-28 15:33:54  CUS-033_SmallAdjuster_80x60x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-033_SmallAdjuster_80x60x20.SLDPRT
+2026-06-28 15:33:58  CUS-034_LinearFeederInsertPlate_500x70x20.SLDPRT saved
+2026-06-28 15:33:59  CUS-034_LinearFeederInsertPlate_500x70x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-034_LinearFeederInsertPlate_500x70x20.SLDPRT
+2026-06-28 15:34:02  CUS-035_StopperCylinderBracket_120x60x20.SLDPRT saved
+2026-06-28 15:34:03  CUS-035_StopperCylinderBracket_120x60x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-035_StopperCylinderBracket_120x60x20.SLDPRT
+2026-06-28 15:34:07  CUS-036_MainPusherStrokeRail_300x60x20.SLDPRT saved
+2026-06-28 15:34:07  CUS-036_MainPusherStrokeRail_300x60x20.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-036_MainPusherStrokeRail_300x60x20.SLDPRT
+2026-06-28 15:34:11  CUS-037_MainPusherRodSupport_100x70x50.SLDPRT saved
+2026-06-28 15:34:11  CUS-037_MainPusherRodSupport_100x70x50.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\CUS-037_MainPusherRodSupport_100x70x50.SLDPRT
+2026-06-28 15:34:15  SM-001_OptionalGuardPanel_900x6x420.SLDPRT saved
+2026-06-28 15:34:16  SM-001_OptionalGuardPanel_900x6x420.SLDPRT registered: D:\working\Temp\6.27\SW_Output\01_Parts\SM-001_OptionalGuardPanel_900x6x420.SLDPRT
+2026-06-28 15:34:18  Assembly insert failed: PUR-001
+2026-06-28 15:34:18  Assembly insert failed: PUR-002
+2026-06-28 15:34:18  Assembly insert failed: PUR-003
+2026-06-28 15:34:18  Assembly insert failed: PUR-004
+2026-06-28 15:34:18  Assembly insert failed: PUR-005
+2026-06-28 15:34:18  Assembly insert failed: PUR-006
+2026-06-28 15:34:18  Assembly insert failed: STD-001
+2026-06-28 15:34:18  Assembly insert failed: FRM-001
+2026-06-28 15:34:18  Assembly insert failed: CUS-001
+2026-06-28 15:34:18  Assembly insert failed: CUS-002
+2026-06-28 15:34:18  Assembly insert failed: CUS-003
+2026-06-28 15:34:18  Assembly insert failed: CUS-004
+2026-06-28 15:34:18  Assembly insert failed: CUS-005
+2026-06-28 15:34:18  Assembly insert failed: CUS-006
+2026-06-28 15:34:18  Assembly insert failed: CUS-007
+2026-06-28 15:34:18  Assembly insert failed: CUS-008
+2026-06-28 15:34:18  Assembly insert failed: CUS-009
+2026-06-28 15:34:18  Assembly insert failed: CUS-010
+2026-06-28 15:34:18  Assembly insert failed: CUS-011
+2026-06-28 15:34:18  Assembly insert failed: CUS-012
+2026-06-28 15:34:18  Assembly insert failed: CUS-013
+2026-06-28 15:34:18  Assembly insert failed: CUS-014
+2026-06-28 15:34:18  Assembly insert failed: CUS-015
+2026-06-28 15:34:18  Assembly insert failed: CUS-016
+2026-06-28 15:34:18  Assembly insert failed: CUS-017
+2026-06-28 15:34:18  Assembly insert failed: CUS-018
+2026-06-28 15:34:18  Assembly insert failed: CUS-019
+2026-06-28 15:34:18  Assembly insert failed: CUS-020
+2026-06-28 15:34:18  Assembly insert failed: CUS-021
+2026-06-28 15:34:18  Assembly insert failed: CUS-022
+2026-06-28 15:34:18  Assembly insert failed: CUS-023
+2026-06-28 15:34:18  Assembly insert failed: CUS-024
+2026-06-28 15:34:18  Assembly insert failed: CUS-025
+2026-06-28 15:34:18  Assembly insert failed: CUS-026
+2026-06-28 15:34:18  Assembly insert failed: CUS-027
+2026-06-28 15:34:18  Assembly insert failed: CUS-028
+2026-06-28 15:34:18  Assembly insert failed: CUS-029
+2026-06-28 15:34:18  Assembly insert failed: CUS-030
+2026-06-28 15:34:18  Assembly insert failed: CUS-031
+2026-06-28 15:34:18  Assembly insert failed: CUS-032
+2026-06-28 15:34:18  Assembly insert failed: CUS-033
+2026-06-28 15:34:18  Assembly insert failed: CUS-034
+2026-06-28 15:34:18  Assembly insert failed: CUS-035
+2026-06-28 15:34:18  Assembly insert failed: CUS-036
+2026-06-28 15:34:18  Assembly insert failed: CUS-037
+2026-06-28 15:34:18  Assembly insert failed: SM-001
+2026-06-28 15:34:19  ASM-000_AutoFeeder_Modular.SLDASM saved
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\PUR-001_LeftBowl.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\PUR-002_RightBowl.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\PUR-003_LeftLinearFeeder.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\PUR-004_RightLinearFeeder.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\PUR-005_MainCylinder.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\PUR-006_StopperCylinder.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\STD-001_GuideRodBearingSet.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\FRM-001_MachineFrameEnvelope.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-001_CenterBasePlate_700x600x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-002_FeedSideRail_150x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-003_TopGuideBlock_70x50x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-004_SmallGuideBlock_50x40x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-005_VerticalStopPlate_140x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-006_ClampBlock_100x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-007_LongSlideBase_240x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-008_UpperBridgePlate_250x50x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-009_ShortPressPlate_150x50x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-010_TallSidePlate_300x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-011_EntryTransitionBlock_100x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-012_CylinderMountPlate_280x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-013_SidePostPlate_60x50x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-014_VerticalNarrowPlate_100x40x10.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-015_SmallMountPlate_50x50x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-016_SmallClampPlate_50x25x10.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-017_PusherTallBlock_210x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-018_EndSupportBlock_60x60x50.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-019_FootClampBlock_70x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-020_SlideTopBlock_145x80x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-021_GuideRodClamp_60x40x40.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-022_GuideBearingBlock_70x60x50.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-023_LongGuideSupport_165x70x50.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-024_EndCylinderPlate_250x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-025_RodSeatBlock_D22.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-026_PositionPlate_70x50x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-027_LongLimitRail_300x70x30.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-028_SensorLightVerticalPlate_310x60x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-029_BackPanel_1080x30x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-030_LongVerticalSupport_250x80x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-031_SensorAngleBlock_100x80x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-032_TubeClamp_70x60x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-033_SmallAdjuster_80x60x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-034_LinearFeederInsertPlate_500x70x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-035_StopperCylinderBracket_120x60x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-036_MainPusherStrokeRail_300x60x20.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\CUS-037_MainPusherRodSupport_100x70x50.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\SM-001_OptionalGuardPanel_900x6x420.SLDDRW
+2026-06-28 15:34:19  No default drawing template. Drawing skipped: D:\working\Temp\6.27\SW_Output\03_Drawings\ASM-000_AutoFeeder_Modular.SLDDRW
+2026-06-28 15:34:19  Drawing placeholders generated: 0
+2026-06-28 15:34:19  Modular macro completed
